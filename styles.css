@@ -1,0 +1,148 @@
+body {background-color: #a5c9ca;}
+
+hr { background-color: #395B64 ; width: 25% ; border-width: 5px ; border-color: #395B64; border-style: double ; border-radius: 5px ;}
+
+#pic{
+  border: 15px solid #395B64;
+  border-radius: 100%; 
+  border-style: double ; 
+  border-width: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+  margin-top: 7.5%;
+  background-color: #2C3333;
+}
+
+#heading1  {   
+  font-size: 64px;
+  font-weight: 600;
+  font-family: Dosis;
+  letter-spacing: 4px;
+  word-spacing: 20px;
+  color: #2C3333;
+  text-align: center;
+  }
+ 
+#heading2 { 
+  font-size: 32px ;
+  font-weight: 500;
+  font-family: Dosis;
+  letter-spacing: 2px ;
+  word-spacing: 0.25em ;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: #2C3333;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+
+h2 {
+     font-family: Dosis ;
+     font-size: 150% ;
+   }
+
+
+form { font-family: Dosis ;}
+
+div { background-color: #2C3333;}
+
+textarea { 
+ border-radius: 10% ;
+}
+
+#heading3  {   
+  font-size: 64px;
+  font-weight: 600;
+  font-family: Dosis;
+  letter-spacing: 4px;
+  word-spacing: 20px;
+  text-align: center;
+  margin-top: 25% ;
+  margin-bottom: 25% ;
+  background-color: #a5c9ca;
+  text-decoration: #395B64;
+}
+
+
+.contact {
+  background-color: #E7F6F2;
+  color: #2C3333;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  font-size: 20px ;
+  text-align: center;
+  word-spacing: 5px ;
+  padding-top: 20px ;
+  padding-bottom: 20px;
+  position: absolute;
+  width: 100% ;
+  bottom: auto  ;
+  left: 0;
+
+}
+
+.nav {
+  padding-top: 5px ;
+  padding-bottom: 5px ;
+  background-color: #2C3333  ;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 35px;
+
+}
+
+.navimg { 
+  height: 25px ;
+  position: relative;
+  left: 25px  ;
+  border-style: solid;
+  border-color: #2C3333;
+  border-radius: 100% ;
+
+}
+
+
+a:visited { color: #2C3333;}
+ 
+
+a { color: #2C3333; text-decoration: none; }
+
+.twitter {
+  position: absolute;
+  right: 200px ;
+  height: 30px ;
+}
+
+.linkedin{
+  position: absolute;
+  right: 150px ;
+  height: 30px ;
+}
+
+.github{
+  position: absolute;
+  right: 100px ;
+  height: 30px ;
+}
+
+.leetcode{
+  position: absolute;
+  right: 53px ;
+  height: 27px ;
+}
+
+.footer { 
+  background-color: #E7F6F2;
+  color: #2C3333;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  font-size: 20px ;
+  text-align: center;
+  word-spacing: 5px ;
+  padding-top: 20px ;
+  padding-bottom: 20px;
+}
