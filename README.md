@@ -2,4 +2,6 @@
 
 Personal Website - Open Source Project 
 
-Goal - To make a personal website with the use of git and github 
+Goal - To make a personal website with the use of git and github
+
+PROJECT-1\HTML\index.html
