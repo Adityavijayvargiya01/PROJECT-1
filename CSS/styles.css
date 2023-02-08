@@ -1,4 +1,4 @@
-body {background-color: #a5c9ca;}
+body {background-color: #a5c9ca; min-height: 100% ;}
 
 hr { background-color: #395B64 ; width: 25% ; border-width: 5px ; border-color: #395B64; border-style: double ; border-radius: 5px ;}
 
