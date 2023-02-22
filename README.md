@@ -1,7 +1,6 @@
 # PROJECT#1 
 
-Personal Website - Open Source Project 
+Responsive resume CV 
 
-Goal - To make a personal website with the use of git and github
-
-PROJECT-1\HTML\index.html
+Goal - 
+To make a personal responive website with the use of git and github
