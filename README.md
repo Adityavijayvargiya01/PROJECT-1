@@ -3,4 +3,4 @@
 Responsive resume CV 
 
 Goal - 
-To make a personal responive website with the use of git and github
+To make a personal responive website with the use of git and github aka kuch nahi aata
